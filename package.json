@@ -1,0 +1,20 @@
+{
+  "name": "project-7-Treehouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdnGG/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Eden Gress <gresseden@gmail.com> (https://www.facebook.com/liledn.mexikn)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdnGG/portfolio/issues"
+  },
+  "homepage": "https://github.com/EdnGG/portfolio#readme"
+}
